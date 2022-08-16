@@ -13,4 +13,4 @@
 <img align="left" alt="CPP" width="50px" src="https://user-images.githubusercontent.com/70964881/182701531-9a577984-6dd9-4964-a558-922def06f70f.png" />
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=nunommestre&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=swift" />
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nunommestre&repo=Filmista)](https://github.com/nunommestre/GUI_II_Project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nunommestre&repo=GUI_II_Project)](https://github.com/nunommestre/GUI_II_Project)
